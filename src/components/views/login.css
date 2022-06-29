@@ -1,0 +1,39 @@
+.logo {
+  width: 119px;
+  height: 84px;
+  left: 60px;
+  top: 0px;
+}
+
+.icon {
+  width: 46.33px;
+  height: 46.33px;
+  left: 1394.67px;
+  top: 17px;
+  padding: 10px;
+  border-radius: 80%;
+  margin-left: -30px;
+  background: linear-gradient(90deg, #8f93d0 0%, #37abf7 100%);
+}
+.header {
+  width: 1532px;
+  height: 74px;
+  left: 0px;
+  top: 0px;
+
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.form {
+  margin-bottom: 5rem;
+  background: linear-gradient(180deg, #eaebee 0%, #e3edff 100%);
+  padding: 20px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 1px;
+}
+h1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+}
